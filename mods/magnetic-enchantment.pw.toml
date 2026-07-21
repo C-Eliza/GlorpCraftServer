@@ -1,0 +1,13 @@
+name = "Magnetic Enchantment (Fabric/Forge/NeoForge/Quilt)"
+filename = "magnetic-enchantment-v1.0.5-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3707fc6df56dbb951d9d91ddad3fd415eca158a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7145754
+project-id = 1277238

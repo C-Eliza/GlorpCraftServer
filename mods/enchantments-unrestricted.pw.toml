@@ -1,0 +1,13 @@
+name = "Enchantments Unrestricted"
+filename = "enchantmentsunrestricted-neoforge-1.21-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c79cbbb1a311baefe7d57101d70a7cc944770e21"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5798533
+project-id = 1118557

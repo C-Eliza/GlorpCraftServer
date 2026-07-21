@@ -1,0 +1,18 @@
+[20Jul2026 10:59:55.432] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.241, --fml.fmlVersion, 4.0.43, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
+[20Jul2026 10:59:55.435] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation OpenJDK 64-Bit Server VM 25.0.4+1
+[20Jul2026 10:59:55.437] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 25.0.4 by N/A; OS Linux arch amd64 version 6.18.35
+[20Jul2026 10:59:55.569] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20Jul2026 10:59:55.630] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/nix/store/hbjpp2mxvkdc3w0jih07prlcbcm9nlnp-neoforge-1.21.1-21.1.241/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
+[20Jul2026 10:59:55.993] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.241:server]
+[20Jul2026 10:59:56.022] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.241-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[/nix/store/hbjpp2mxvkdc3w0jih07prlcbcm9nlnp-neoforge-1.21.1-21.1.241/libraries/net/neoforged/neoforge/21.1.241/neoforge-21.1.241-universal.jar]], reader: mod manifest]
+[20Jul2026 10:59:56.179] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[20Jul2026 10:59:56.179] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.3.jar" [parent: neoforge-21.1.241-universal.jar, locator: jarinjar, reader: mod manifest]
+[20Jul2026 10:59:56.179] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.241.jar" [parent: neoforge-21.1.241-universal.jar, locator: jarinjar, reader: mod manifest]
+[20Jul2026 10:59:56.182] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		Minecraft 1.21.1 (minecraft)
+		NeoForge 21.1.241 (neoforge)
+[20Jul2026 10:59:56.718] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[20Jul2026 10:59:57.300] [main/INFO] [net.minecraft.server.Main/]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.

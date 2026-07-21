@@ -1,0 +1,13 @@
+name = "Hide Player Nametags"
+filename = "hidden-player-nametags-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38746759b3a4d1c545bbf85343b82f0e70aa0f25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5645059
+project-id = 1086666

@@ -1,0 +1,13 @@
+name = "Modern Silk Touch Spawners"
+filename = "silk-touch-spawners-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f90bfbba79e772b73aa4bb4b2fabc729425aa27b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5949228
+project-id = 1150457

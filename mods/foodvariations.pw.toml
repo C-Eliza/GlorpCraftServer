@@ -1,0 +1,13 @@
+name = "Spice of Life: Classic Edition"
+filename = "spiceoflife_classic-neoforge-2.12+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce4d701d3db9537bd00dcccb96d7bbd162ee9d23"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8016489
+project-id = 1109288

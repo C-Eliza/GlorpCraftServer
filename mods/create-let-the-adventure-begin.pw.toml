@@ -1,0 +1,13 @@
+name = "Create: Let The Adventure Begin"
+filename = "create_ltab-3.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0515774031dc77da9ccf430560233fdcf485d318"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7290527
+project-id = 1007872
