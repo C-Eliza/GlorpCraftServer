@@ -1,0 +1,13 @@
+name = "Deeper Oceans"
+filename = "deeper-oceans-2.0.1-neoforge-21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85d90c1e9155d3de8c6b0e6e84c003d4f2ff1ba1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8332463
+project-id = 714177

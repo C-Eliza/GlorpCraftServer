@@ -50,6 +50,11 @@ hash = "ff3ae9bae59b91406577910119f4eeab80a6148f0fb661a3e88cf819943b20d2"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "a2aafa3ac24eef1aad644a9633f9f856271ed97c8da6a6855627f9eaea6e44f4"
+metafile = true
+
+[[files]]
 file = "mods/aeinfinitybooster.pw.toml"
 hash = "ea80afccea478751cca0ba07f4a83005b51bd080840766597ec692612ed85e04"
 metafile = true
@@ -87,10 +92,6 @@ metafile = true
 file = "mods/artifacts.pw.toml"
 hash = "730498992eb3dad74a9bf9d9cd0cc104e4e205230bf76851f605c2d1a2b16bff"
 metafile = true
-
-[[files]]
-file = "mods/async-neoforge-0.2.0+alpha-1.21.1.jar"
-hash = "a6642af5a3fd83a377e085b7b23c0878ac25472ebcc8c8a885dd0202c63d8572"
 
 [[files]]
 file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
@@ -287,6 +288,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/deeper-oceans.pw.toml"
+hash = "c1756449d3763c4d061a83250c6cdf1a6a0c2631ca954aabd287ae105048300e"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "ec7944a564413218a8c492f5542019fb9180531207c7ae5cada89b1b3dbf3bc2"
 metafile = true
@@ -338,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
 metafile = true
 
 [[files]]
@@ -622,13 +633,18 @@ file = "mods/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
 hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "3c4fbbd6d5cfcb5ac1faaf56fc85ae79194f3c0155013afc39e4fed20a3812c1"
+metafile = true
+
+[[files]]
 file = "mods/powah-rearchitected.pw.toml"
 hash = "a6f8726db6be3d6efc3a3561166db9d30d48dc2feef5e5d7e0ecbff86b3a2f82"
 metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
-hash = "1adf389beb863fc1a6f8b272fb15e00df54e07b22f32dada2472c6a70b819dd8"
+hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
