@@ -1,12 +1,12 @@
 name = "GlorpCraft"
 author = "Dimond_person"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d927cea15001bff2f8dab0de2536ce4c750c990f8d4c1d5f8e069b4c748e79a2"
+hash = "d2c05a8bf7f8504cf6b3af10a5def652b2ff835ac531eec7a9cefaf198a35123"
 
 [versions]
 minecraft = "1.21.1"

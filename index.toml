@@ -98,6 +98,11 @@ file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
 hash = "81b0f29d6c0929021065a04476fa5e79a87a006e18654f91d501074151074e14"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "f1518b9325a7fa419cfb856774ab3065e12b3d6c467ae566a8e07d7cb9929857"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
 metafile = true
@@ -119,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
+metafile = true
+
+[[files]]
+file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
+hash = "89ce9993242eb071f055d3543f5362a7cce8a20167800087456cc8f01e5e8ec8"
 metafile = true
 
 [[files]]
@@ -239,6 +249,11 @@ file = "mods/create-man-of-many-planes-1.1.jar"
 hash = "6d573302a3e1a15afb6498fc1779140ca9cf3bc3f92e63203f12fdeb5cb8eed6"
 
 [[files]]
+file = "mods/create-mechanical-extruder.pw.toml"
+hash = "dd9ffc834ec8790d53e41c0ab6e784158158b69a78ffe4beea719d6b9e493cb8"
+metafile = true
+
+[[files]]
 file = "mods/create-missiles.pw.toml"
 hash = "97b2fe3da8f50ba3d9b86c928f9f2e33580088f4524e51326538cd558f69b692"
 metafile = true
@@ -308,6 +323,11 @@ hash = "042ff6bd1253a58e93d7ee172a2d565b0c8dedb1b88d0cb5ff7d2c9e73a04141"
 metafile = true
 
 [[files]]
+file = "mods/dyson-cube-project.pw.toml"
+hash = "1c8bced0d438028749bdae28d96647825ff469ec9780fb269e0ee421012aec64"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
 metafile = true
@@ -334,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "6c44d21e8b7a1a3933b7d24d177b910025091195f1fbf4c8d41ad8196c7bf586"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "a3d47e3c301ed2359820c2083dcddec8240a5d692a016c42a74eecc1193772e1"
 metafile = true
 
 [[files]]
@@ -393,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "402ca5410076adcf4bff4211d5d734572e0549955d3613ea0942309ec29a409b"
+metafile = true
+
+[[files]]
+file = "mods/geore.pw.toml"
+hash = "850585749da2239be06f7db1d1a2499eb99bedd8eb06a49ae97bd0a2d604e063"
 metafile = true
 
 [[files]]
@@ -561,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/mechanicals-lib.pw.toml"
-hash = "1ea69b6af6b76fca203a514a5d191300454ea9d020aa585dbef2dae697eac66a"
+hash = "5564e88df5e56d9cf75f3006852ef53fd12909ce00917c5d085cd65a962b4238"
 metafile = true
 
 [[files]]
@@ -767,8 +797,14 @@ hash = "2d45beea61a151a54e9318712c164306ccc8d223b07d5227d60c99d7c54905bf"
 metafile = true
 
 [[files]]
-file = "mods/waystones-neoforge-1.21.1-21.1.24.jar"
-hash = "d8705bd4d3e2697f0decc2277065990bbf33a0f5c39ca2944a4cf27553d99abe"
+file = "mods/waystones-sable.pw.toml"
+hash = "f6a7955c87063de02f441cba9f23bd70160e38e023304d5a498833118a5965ab"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "cdd6792d04eef2981de616a24f1d89648749c3c7494396f2119cd6ec7ce1e242"
+metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
@@ -797,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d7741a98f8178b9c32f62b0eb334cac2961ae95bfe5fdcec060918bbc9b0311c"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
 
 [[files]]
